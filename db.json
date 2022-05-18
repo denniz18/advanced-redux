@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "Addi Gillespie",
+      "body": "Adi Gilespie",
+      "id": 11
+    },
+    {
+      "title": "Something new",
+      "body": "Something new",
+      "id": 12
+    },
+    {
+      "title": "TR",
+      "body": "TR",
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
